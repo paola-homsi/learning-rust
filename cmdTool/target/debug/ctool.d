@@ -1,1 +1,0 @@
-C:\Rust\cTool\ctool\target\debug\ctool.exe: C:\Rust\cTool\ctool\src\executer.rs C:\Rust\cTool\ctool\src\main.rs C:\Rust\cTool\ctool\src\models\mod.rs C:\Rust\cTool\ctool\src\models\requests.rs C:\Rust\cTool\ctool\src\parser.rs

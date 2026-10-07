@@ -1,0 +1,8 @@
+# Cargo build output. Never commit this folder.
+target/
+**/*.rs.bk
+
+# IDEs and OS
+.idea/
+.vscode/
+.DS_Store
