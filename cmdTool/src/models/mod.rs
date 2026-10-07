@@ -1,2 +1,2 @@
 mod requests;
-pub use requests::CmdRequest;
+pub use requests::{Action, CmdRequest};
