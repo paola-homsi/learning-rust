@@ -1,6 +1,6 @@
 # learning-rust
 
-[![CI](https://github.com/pawla-homsi/learning-rust/actions/workflows/ci.yml/badge.svg)](https://github.com/pawla-homsi/learning-rust/actions/workflows/ci.yml)
+[![CI](https://github.com/paola-homsi/learning-rust/actions/workflows/ci.yml/badge.svg)](https://github.com/paola-homsi/learning-rust/actions/workflows/ci.yml)
 
 Small Rust projects I build to learn the language.
 
